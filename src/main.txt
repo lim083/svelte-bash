@@ -81,3 +81,4 @@ A fully typed, lightweight, and customizable terminal emulator component for Sve
 # keep defaults in sync with the manifest
 # clarify the control flow
 # handle the edge case from the last release
+# guard against empty input
